@@ -1,0 +1,49 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+ 
+  .navbar {
+    background-color: #03264C;
+    color: #ebebeb;
+    padding: 10px;
+  }
+  
+ 
+  .login-bar {
+    background-color: #1259c3;
+    color: #ebebeb;
+    padding: 10px;
+  }
+  
+ 
+  .search-bar {
+    background-color: #ebebeb;
+    padding: 10px;
+  }
+  
+
+  
+ 
+  body {
+    font-size: 12px;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+ 
+  .price {
+    font-size: 18px;
+  }
+  
+  .discount {
+    font-size: 16px;
+  }
+  
+  .description {
+    font-size: 16px;
+  }
+  
